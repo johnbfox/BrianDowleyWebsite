@@ -1,0 +1,26 @@
+#toolbar{
+	background:#474747;
+	color:white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+span.toolbar-description{
+	font-size:18px;
+	display: block;
+	float: left;
+}
+
+ul#nav{
+	list-style-type: none;
+}
+
+#nav li{
+	display: inline-block;
+	margin-left: 15px;
+}
+
+#nav li:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
